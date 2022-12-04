@@ -1,4 +1,4 @@
-package in.ashokit.repository;
+package com.oop.repository;
 
 import java.io.Serializable;
 
