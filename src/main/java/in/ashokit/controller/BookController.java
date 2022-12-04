@@ -1,4 +1,4 @@
-package in.ashokit.controller;
+package com.oop.controller;
 
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import in.ashokit.binding.Book;
-import in.ashokit.repository.BookRepository;
+import com.oop.binding.Book;
+import com.oop.repository.BookRepository;
 
 @Controller
 public class BookController {
